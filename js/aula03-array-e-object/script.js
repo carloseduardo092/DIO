@@ -32,4 +32,4 @@ let array = ["string", 1, true, ["array1"], ["array2"], ["array3"], ["array4"]];
 
 
 let novoArray = array.slice(0, 3)
-console.log(array)
+console.log(array) 
